@@ -1,6 +1,6 @@
 #name: itsRaining 1.0
 #author: Lestra 26.12.19
-#description: Пример выполнения программы работающей с IF ELSE и WHILE
+#description: Пример выполнения программы работающей с IF ELSE и WHILE. идея: https://automatetheboringstuff.com/images/000105.jpg
 #e-mail: lestrangeqq@gmail.com
 
 print ('Please answer Yes or No')
