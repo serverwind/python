@@ -13,8 +13,6 @@ widthM = int(m)
 amountK = int(k)
 
 divideLength = lengthN / 2
-print(divideLength)
-
 
 if (amountK <= divideLength or amountK <= widthM):
 	print('Yes')
