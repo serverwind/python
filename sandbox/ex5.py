@@ -1,8 +1,10 @@
 #Задача 5.
 #Даны два целых числа A и B (при этом A ≤ B). Выведите все числа от A до B включительно. 
 
-firstNum = int(input())
-secondNum = int(input())
+a = int(input())
+b = int(input())
 
-for firstNum in range(secondNum):
-	print(firstNum+1)   
+for a in range(a, b+1):  #как я понял range(a, b) это задается диапазон от и до b+1 тк нас просят вывести до B включительно
+	print(a)
+	
+#было сложно :D
